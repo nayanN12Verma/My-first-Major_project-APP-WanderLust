@@ -1,7 +1,7 @@
 
 # Updated README.md for HTML/CSS/JS/Node/Express/EJS project with Mapbox API
 readme_stayinn_ejs = """
-# 🏨 StayInn – Airbnb-like Booking Platform (Node.js + EJS + Mapbox)
+# 🏨 Wanderlust  – Airbnb-like Booking Platform (Node.js + EJS + Mapbox)
 
 **StayInn** is a full-stack clone of Airbnb built using Node.js, Express.js, MongoDB, EJS templates, and vanilla HTML/CSS/JavaScript. This project allows users to list properties, browse listings, and make bookings with integrated location services via Mapbox API.
 
